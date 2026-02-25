@@ -13,7 +13,11 @@ public class Ex01 {
 		System.out.println("팀원3 보경 커밋 확인3");
 		System.out.println("팀장 세번째 커밋 및 출력문 정리");
 		
+
 		System.out.println("민경 개인 브랜치 커밋");
+
+		System.out.println("승호 개인 브랜치 커밋");
+
 	}
 
 }
