@@ -11,6 +11,7 @@ public class Ex01 {
 		System.out.println("팀장 두번째 커밋 확인하세요!!");
 		System.out.println("두번째 커밋 확인~");
 		System.out.println("두번째 커밋 확인2 ");
+		System.out.println("팀원 3 보경 커밋 확인3");
 	}
 
 }
